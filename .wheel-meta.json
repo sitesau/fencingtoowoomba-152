@@ -1,0 +1,22 @@
+{
+  "wheel_id": 481,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-152",
+  "project": "fencing-contractors-toowoomba-suburb-guide-293c2d98fed79498c06b",
+  "parent_t1_ref": "fencingtoowoomba-008",
+  "node_role": "buffer",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba suburb guide",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-suburb-guide-293c2d98fed79498c06b/",
+  "tier": "T2",
+  "writeback_nonce": "7180ec34f58447e9",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/fencingtoowoomba-008/fencing-contractors-toowoomba.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
